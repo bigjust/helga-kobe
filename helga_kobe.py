@@ -8,4 +8,4 @@ def kobe(client, channel, nick, message, cmd, args):
     """
     swooosh.
     """
-    return 'o/ {ballin} `-'.format(ballin='A' * random.randint(1, 35))
+    return 'o/ {ballin} `-'.format(ballin=' ' * random.randint(1, 25))
